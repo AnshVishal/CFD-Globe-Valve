@@ -30,7 +30,7 @@ The study evaluates the valve under multiple inlet pressure conditions to unders
 <p align = "justify">
       <ul><li>Inlet and outlet extensions were added to avoid backflow errors.</li>
             <li>Internal flow domain extracted for simulation.</li></ul></p>
-<p align = "center"><img width="620" height="199" alt="image" src="https://github.com/user-attachments/assets/b8d99a99-d004-4786-9fb6-49ddbe87d82a" /><br/>
+<p align = "center"><img width="620" height="180" alt="image" src="https://github.com/user-attachments/assets/b8d99a99-d004-4786-9fb6-49ddbe87d82a" /><br/>
     <b>Globe Valve Geometry and Domain</b></p>
 
 <h3 align = "left">2. Mesh Details</h3>
@@ -46,7 +46,7 @@ The study evaluates the valve under multiple inlet pressure conditions to unders
                         <li>Min cell length: 4 mm</li></ul></li>
             <li>Valve Lift Cases: 1mm, 3mm, 5mm, 11mm, 21mm</li></ul>
 </p>
-<p align = "center"><img width="620" height="141" alt="image" src="https://github.com/user-attachments/assets/0ab22edf-9bb5-4831-8887-e4c030fdce5c" /><br/>
+<p align = "center"><img width="620" height="180" alt="image" src="https://github.com/user-attachments/assets/0ab22edf-9bb5-4831-8887-e4c030fdce5c" /><br/>
             <b>Meshing at different valve openings (1mm, 3mm, 5mm, 11mm, 21mm)</b></p>
 
 
@@ -69,11 +69,11 @@ The study evaluates the valve under multiple inlet pressure conditions to unders
 
 <h3 align = "left">4. Results</h3>
 <h4 align = "left">Velocity and Pressure Contours</h4>
-<p align = "center"><img align = "center" width="350" height="1077" alt="Screenshot 2025-10-06 225005" src="https://github.com/user-attachments/assets/9b7f86ea-f5ef-4ed4-8268-66ee1aef6637" />
-<img align = "center" width="350" height="1079" alt="Screenshot 2025-10-06 225236" src="https://github.com/user-attachments/assets/a3fa04e4-f37f-414b-8149-86373dace995" /><br/>
+<p align = "center"><img align = "center" width="360" height="240" alt="Screenshot 2025-10-06 225005" src="https://github.com/user-attachments/assets/9b7f86ea-f5ef-4ed4-8268-66ee1aef6637" />
+<img align = "center" width="360" height="240" alt="Screenshot 2025-10-06 225236" src="https://github.com/user-attachments/assets/a3fa04e4-f37f-414b-8149-86373dace995" /><br/>
 <b>Pressure & Velocity Contours at Pressure Difference 1bar, 2bar, 5bar for different valve openings</b></p>
 <h4 align = "left">Discharge Rate & Mass Flow Rate</h4>
-<p align = "center"><img width="350" height="723" alt="image" src="https://github.com/user-attachments/assets/ff8cbd49-3fdf-4599-94be-59d69c523fe4" /><img width="350" height="723" alt="image" src="https://github.com/user-attachments/assets/d70ac64e-85a6-4c04-ab75-ea757e5b662f" /><br/>
+<p align = "center"><img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/ff8cbd49-3fdf-4599-94be-59d69c523fe4" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/d70ac64e-85a6-4c04-ab75-ea757e5b662f" /><br/>
 <b>Discharge Rate (C<sub>d</sub>) & Mass Flow Rate vs valve opening in Percentage</b></p>
 
 <h3 align = "left">5. Discussion & Future Scope</h3>
